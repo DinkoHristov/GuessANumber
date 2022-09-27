@@ -1,0 +1,14 @@
+D:\SoftUni\C#Code\C# Fundamentals\Guess-A-Number-Game\GuessANumberGame\bin\Debug\netcoreapp3.1\GuessANumberGame.exe
+D:\SoftUni\C#Code\C# Fundamentals\Guess-A-Number-Game\GuessANumberGame\bin\Debug\netcoreapp3.1\GuessANumberGame.deps.json
+D:\SoftUni\C#Code\C# Fundamentals\Guess-A-Number-Game\GuessANumberGame\bin\Debug\netcoreapp3.1\GuessANumberGame.runtimeconfig.json
+D:\SoftUni\C#Code\C# Fundamentals\Guess-A-Number-Game\GuessANumberGame\bin\Debug\netcoreapp3.1\GuessANumberGame.runtimeconfig.dev.json
+D:\SoftUni\C#Code\C# Fundamentals\Guess-A-Number-Game\GuessANumberGame\bin\Debug\netcoreapp3.1\GuessANumberGame.dll
+D:\SoftUni\C#Code\C# Fundamentals\Guess-A-Number-Game\GuessANumberGame\bin\Debug\netcoreapp3.1\GuessANumberGame.pdb
+D:\SoftUni\C#Code\C# Fundamentals\Guess-A-Number-Game\GuessANumberGame\obj\Debug\netcoreapp3.1\GuessANumberGame.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# Fundamentals\Guess-A-Number-Game\GuessANumberGame\obj\Debug\netcoreapp3.1\GuessANumberGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# Fundamentals\Guess-A-Number-Game\GuessANumberGame\obj\Debug\netcoreapp3.1\GuessANumberGame.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# Fundamentals\Guess-A-Number-Game\GuessANumberGame\obj\Debug\netcoreapp3.1\GuessANumberGame.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# Fundamentals\Guess-A-Number-Game\GuessANumberGame\obj\Debug\netcoreapp3.1\GuessANumberGame.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# Fundamentals\Guess-A-Number-Game\GuessANumberGame\obj\Debug\netcoreapp3.1\GuessANumberGame.dll
+D:\SoftUni\C#Code\C# Fundamentals\Guess-A-Number-Game\GuessANumberGame\obj\Debug\netcoreapp3.1\GuessANumberGame.pdb
+D:\SoftUni\C#Code\C# Fundamentals\Guess-A-Number-Game\GuessANumberGame\obj\Debug\netcoreapp3.1\GuessANumberGame.genruntimeconfig.cache
